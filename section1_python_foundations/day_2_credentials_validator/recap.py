@@ -3,7 +3,7 @@
 stored_email = "admin@test.com"
 stored_password = "admin"
 
-email = input(("Share User Email: "))
+email = input(("Share User Email "))
 password = input(("Share your User Password: "))
 
 print(("Welcome To Test Login Site!! \n\n"))
