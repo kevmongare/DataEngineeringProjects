@@ -1,0 +1,16 @@
+In order for you to work on this section easily you will need the following
+VS code
+DBeaver
+Postgress Extension on vs code
+
+How to set it up
+Install the extension:
+Open the Extensions view in VS Code (Ctrl+Shift+X or Cmd+Shift+X).
+Search for "PostgreSQL" in the marketplace.
+Select the official extension authored by Microsoft (it has a blue elephant icon) and click Install.
+Connect to your database:
+After installation, a PostgreSQL icon (elephant) will appear in your Activity Bar on the sidebar; click it.
+In the PostgreSQL explorer pane, select Add Connection.
+Enter your connection details, such as the host address (e.g., localhost for a local database), port (default is 5432), username, and password when prompted.
+You can also choose to connect via a connection string or browse Azure-hosted databases if applicable.
+Select Test Connection to verify your details, then Connect to establish the connection.
